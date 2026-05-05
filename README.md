@@ -14,9 +14,7 @@ A modern and responsive **Ecommerce Web Application** designed to provide a seam
 
 <!-- Add your screenshots -->
 
-![Home Page](./screenshots/home.png)
-![Products](./screenshots/products.png)
-![Cart](./screenshots/cart.png)
+![Home Page](./readme-images/desktop.png)
 
 ---
 
