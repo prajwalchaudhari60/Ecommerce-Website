@@ -920,21 +920,13 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
  * #MEDIA QUERIES
 \*-----------------------------------*/
 
-/**
- * responsive for larger than 575px screen
- */
-
 @media (min-width: 575px) {
 
-  /**
-   * CUSTOM PROPERTY
-   */
+ 
 
   :root {
 
-    /**
-     * typography
-     */
+  
 
     --fs-1: 4rem;
 
@@ -942,9 +934,6 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-  /**
-   * REUSED STYLE
-   */
 
   .container {
     max-width: 650px;
@@ -956,25 +945,14 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-  /**
-   * HERO
-   */
-
   .hero-text { font-size: var(--fs-7); }
 
 
 
-  /**
-   * PRODUCTS
-   */
+
 
   .product-list { grid-template-columns: 1fr 1fr; }
 
-
-
-  /**
-   * CTA
-   */
 
   .cta-card { text-align: left; }
 
@@ -984,17 +962,11 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-  /**
-   * INSTA POST
-   */
+
 
   .insta-post-list .insta-post-item { min-width: 25%; }
 
 
-
-  /**
-   * FOOTER
-   */
 
   .footer-brand .logo { margin-bottom: 0; }
 
@@ -1016,21 +988,14 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-/**
- * responsive for larger than 768px screen
- */
+
 
 @media (min-width: 768px) {
 
-  /**
-   * CUSTOM PROPERTY
-   */
+ 
 
   :root {
 
-    /**
-     * typography
-     */
 
     --fs-2: 3rem;
 
@@ -1038,9 +1003,7 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-  /**
-   * REUSED STYLE
-   */
+  
 
   .container { max-width: 720px; }
 
@@ -1048,9 +1011,6 @@ a.footer-link:is(:hover, :focus) { color: var(--bittersweet); }
 
 
 
-  /**
-   * SPECIAL
-   */
 
   .special-banner .banner-title { --fs-4: 2.2rem; }
 
